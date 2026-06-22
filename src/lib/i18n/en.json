@@ -1,0 +1,70 @@
+{
+  "common": {
+    "retry": "Try again",
+    "cancel": "Cancel",
+    "save": "Save",
+    "continue": "Continue",
+    "done": "Done",
+    "close": "Close",
+    "search": "Search",
+    "loading": "Loading…",
+    "seeAll": "See all",
+    "from": "from"
+  },
+  "tabs": {
+    "home": "Home",
+    "reservations": "Bookings",
+    "membership": "Membership",
+    "notifications": "Alerts",
+    "profile": "Profile"
+  },
+  "home": {
+    "greeting": "Hi, {{name}}",
+    "subtitle": "What would you like to do today?",
+    "packages": "Party Packages",
+    "attractions": "Attractions",
+    "events": "Events",
+    "membership": "Membership",
+    "emptyCatalog": "Nothing here yet",
+    "emptyCatalogDesc": "This location hasn't published anything for this category yet."
+  },
+  "location": {
+    "select": "Select a location",
+    "change": "Change location",
+    "choosePrompt": "Choose your ZapZone"
+  },
+  "booking": {
+    "selectDate": "Select date",
+    "selectTime": "Select time",
+    "participants": "Participants",
+    "addOns": "Add-ons",
+    "yourDetails": "Your details",
+    "payment": "Payment",
+    "reviewPay": "Review & pay",
+    "noSlots": "No times available for this date",
+    "closed": "This location is closed on the selected date",
+    "bookNow": "Book now",
+    "total": "Total"
+  },
+  "reservations": {
+    "title": "My Bookings",
+    "empty": "No bookings yet",
+    "emptyDesc": "When you book a party or experience, it'll show up here.",
+    "browse": "Browse experiences"
+  },
+  "notifications": {
+    "title": "Notifications",
+    "empty": "You're all caught up",
+    "emptyDesc": "Notifications about your bookings and offers will appear here.",
+    "markAll": "Mark all read"
+  },
+  "membership": {
+    "title": "Membership",
+    "none": "No active membership",
+    "noneDesc": "Join a membership to unlock member pricing and perks.",
+    "viewPlans": "View plans"
+  },
+  "auth": {
+    "signOut": "Sign out"
+  }
+}
